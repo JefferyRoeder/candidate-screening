@@ -3,3 +3,4 @@ addresses.csv
 emails.csv
 names.csv
 *.idea
+env.py
